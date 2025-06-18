@@ -20,7 +20,7 @@ class CONSTANTS(object):
     DBUS_RETRIES            = 5                                                 # Max dbus-send retries
     LOG_LINE_LEN            = 170                                               # Logger line length in characters
     PYTHON_VER_MIN          =  (3, 7)                                           # Minimum required Python version
-    MIN_GPU_MEM             = 256                                               # Mininum required GPU memory split
+    MIN_GPU_MEM             = 128                                               # Mininum required GPU memory split
     MAX_SCREENS             = 32
     MAX_WINDOWS             = 16
     KEY_TIMEOUT_MS          = 3000
