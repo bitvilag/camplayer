@@ -166,7 +166,7 @@ class StreamInfo(object):
                         ffprobe_args.extend(['-rtsp_transport', transport])
 
                     # Invoke ffprobe, 20s timeout required for pi zero
-                    streams = subprocess.check_output(ffprobe_args, universal_newlines=True, timeout=10,
+                    streams = subprocess.check_output(ffprobe_args, universal_newlines=True, timeout=30,
                                                       stderr=subprocess.STDOUT).split("[STREAM]")
 
                     for stream in streams:
