@@ -10,11 +10,6 @@ Especially the RTSP protocol is supported by nearly all big brands out there.
 ## Website
 [https://www.rpi-camplayer.com/](https://www.rpi-camplayer.com/)
 
-## Donate
-Please consider a donation if you like this software or want to support its ongoing development.
-
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZJMX4ZWEUCP22&source=url" target="_blank" rel="nofollow"><img src="https://www.paypal.com/en_US/i/btn/x-click-but21.gif" alt="" /></a>
-
 ## Features
 * MPEG2, H264, MJPEG and experimental HEVC support (see support matrix).
 * Video grid for up to 16 streams.
